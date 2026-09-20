@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Left Unchecked Wiki
-description: Bookmark this to keep an eye on my project updates!
+# Site configuration settings
+title: "Unchecked Wiki"
+description: "The ultimate database and guide repository for our game."
+theme: jekyll-theme-cayman
+
+# Navigation Links (This will generate a clean header bar)
+navigation:
+  - text: "Home"
+    url: /index.html
+  - text: "Characters"
+    url: /characters.html
+  - text: "Items"
+    url: /items.html
